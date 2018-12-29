@@ -1,4 +1,4 @@
-# [Material Dashboard Angular - Base para plataforma](https://github.com/julio899/BaseDashboard/)[![version][version-badge]][CHANGELOG]
+# [Material Dashboard Angular - Base para plataforma](https://github.com/julio899/BaseDashboard/)[![version] [version-badge] ] [CHANGELOG]
 
 ![alt text](http://s3.amazonaws.com/creativetim_bucket/products/53/original/opt_md_angular_thumbnail.jpg "Material Dashboard Angular Free")
 
