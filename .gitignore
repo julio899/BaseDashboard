@@ -4,6 +4,7 @@
 /src/config.ts
 /dist/config.js
 
+package-lock.json
 # compiled output
 /dist
 /tmp
